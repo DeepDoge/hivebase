@@ -5,6 +5,7 @@ Designed to be able to scale to multiple minibase nodes.
 
 and comes with a powerful TypeScript SDK, which removes the need for designing your own system on top of minibase sdk as much as posibble.
 probably that would be a seperate package on top of the core sdk. it will be more complate, production ready.
+it would create a replica of the database locally via indexeddb probably, maybe with a plugin again. so good caching.
 
 with rules more close to sql building where you can do math and conditions.
 there is no get and list rules, just filtering rules in general, it will act kinda like a sql builder with sub queries.
