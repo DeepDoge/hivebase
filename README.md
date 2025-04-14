@@ -1,4 +1,5 @@
 This will be a pocketbase/firebase alternative. More code orianted so you can actually commit your database schema with your code, but has dev ui which lets you update the schema and push changes to your minibase nodes.
+So you will have a local schema file, dev ui will edit that file in the dev envoriment, then you can push those changes to the nodes/servers.
 Designed to remove need for any server code as much as posibble.
 Designed to be able to scale to multiple minibase nodes.
 
