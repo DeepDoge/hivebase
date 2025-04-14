@@ -4,9 +4,13 @@ Designed to remove need for any server code as much as posibble.
 Designed to be able to scale to multiple minibase nodes.
 
 and comes with a powerful TypeScript SDK, which removes the need for designing your own system on top of minibase sdk as much as posibble.
-probably that would be a seperate package on top of the core sdk.
+probably that would be a seperate package on top of the core sdk. it will be more complate, production ready.
 
 with rules more close to sql building where you can do math and conditions.
+there is no get and list rules, just filtering rules in general, it will act kinda like a sql builder with sub queries.
+mutation rules are different.
+tbh rules are writing with code. yeah. better.
+they let you edit user request input or output or both. middleware style.
 
 no external dependencies, made with deno.
 
