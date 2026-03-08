@@ -49,3 +49,7 @@ after i write more important things to me
 if you need a traditional normal backend, easy to build and use now, build it in hours for small to medium sized projects, which can also scale to infinity with right design.\
 then hivebase is all you need. at least thats the goal.
 self host it on multiple vps cheap servers around the world easily with a single line of copy paste code, make any pc/server/chip/vps your node, part of your hive.
+
+## License
+
+[LGPL v2.1](LICENSE)
